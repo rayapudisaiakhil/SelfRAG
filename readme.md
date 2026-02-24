@@ -184,9 +184,8 @@ python3.11 -m evals.langsmith_evals --name "baseline-chunk600-topk4"
 python3.11 -m evals.langsmith_evals --name "topk6-experiment"
 ```
 
-<!-- Add your LangSmith screenshots below -->
-<!-- ![LangSmith Experiment Results](screenshots/langsmith-experiment.png) -->
-<!-- ![LangSmith Trace View](screenshots/langsmith-trace.png) -->
+![LangSmith Experiment Results](screenshots/LangSmith_Evals.png)
+![LangSmith Trace View](screenshots/LangSmith_Traces.png)
 
 ---
 
