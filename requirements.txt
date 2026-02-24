@@ -1,0 +1,21 @@
+# Core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+langgraph
+python-dotenv
+pydantic
+
+# Vector Store
+faiss-cpu
+
+# PDF Loading
+pypdf
+
+# API
+fastapi
+uvicorn
+
+# Evaluation
+httpx
