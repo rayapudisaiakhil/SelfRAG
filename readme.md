@@ -1,4 +1,4 @@
-# 🔁 Self-RAG: Self-Reflective Retrieval-Augmented Generation
+# Self-RAG: Self-Reflective Retrieval-Augmented Generation
 
 > A production-ready RAG pipeline that **checks its own answers** for hallucinations, relevance, and usefulness before responding — built with LangGraph, LangChain, and FAISS.
 
